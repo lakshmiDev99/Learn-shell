@@ -1,4 +1,4 @@
 echo first argument - $1
 echo second argument - $2
 echo no.of arguments- $#
-echo all arguments - $1
+echo all arguments - $*
